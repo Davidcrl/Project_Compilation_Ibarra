@@ -1,0 +1,67 @@
+html {
+    background-image: url('C:/Users/pasaq/OneDrive/Desktop/rachelle/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 40px;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.term-buttons {
+    text-align: center;
+}
+.term-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.term-button:hover {
+    background-color: #0056b3;
+}
+.projects {
+    text-align: center;
+}
+.back-button {
+    display: none; /* Initially hide the back button */
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #0056b3;
+}
