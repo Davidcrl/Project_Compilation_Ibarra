@@ -19,13 +19,13 @@ function showProjects(term) {
                 <h1>Prelim Projects</h1>
 
                 <h2>01 eLMS Activity 2</h2>
-                <embed src="/01elmsAct2-micro.pdf" type="application/pdf" width="100%" height="600px" />
+                <embed src="01elmsAct2-micro.pdf" type="application/pdf" width="100%" height="600px" />
                 <br>
                 <h2>02 eLMS Activity 2</h2>
-                <embed src="/Ibarra-02elmsAct2-Microprocessors.pdf" type="application/pdf" width="100%" height="600px" />
+                <embed src="Ibarra-02elmsAct2-Microprocessors.pdf" type="application/pdf" width="100%" height="600px" />
                 <br>
                 <h2>02 Task Performance 1</h2>
-                <embed src="/02TP-micro.pdf" type="application/pdf" width="100%" height="600px" />
+                <embed src="02TP-micro.pdf" type="application/pdf" width="100%" height="600px" />
                 `;
             break;
         case "midterm":
@@ -40,10 +40,10 @@ function showProjects(term) {
                 <p>Radio frequency interference can cause either unintentional or intentional crosstalk. When people control it for communication systems, it's intentional. On the other hand, unintentional crosstalk restricts communication and starts from other sources. Intentional crosstalk is usually manageable and can even be beneficial at times. Protecting and filtering are necessary measures to address accidental crosstalk.</p>
                 <br>
                 <h2>04 Task Performance 1</h2>
-                <img src="/1.png" alt="Prelim Image" width="100%" />
-                <img src="/2.png" alt="Prelim Image" width="100%" />
-                <img src="/3.png" alt="Prelim Image" width="100%" />
-                <img src="/4.png" alt="Prelim Image" width="100%" />
+                <img src="1.png" alt="Prelim Image" width="100%" />
+                <img src="2.png" alt="Prelim Image" width="100%" />
+                <img src="3.png" alt="Prelim Image" width="100%" />
+                <img src="4.png" alt="Prelim Image" width="100%" />
             `;
             break;
         case "pre-finals":
